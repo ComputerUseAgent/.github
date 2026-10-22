@@ -39,7 +39,7 @@
 
 Any desktop app, driven with real mouse and keyboard input. Agent mode: computer use.
 
-https://github.com/user-attachments/assets/a767c117-abad-46bf-8a8b-6ecf49be6288
+https://github.com/user-attachments/assets/e6c4b637-baeb-441f-8dfb-e550d88b4223
 
 ## iOS agent: iPhone use
 
