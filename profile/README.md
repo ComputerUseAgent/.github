@@ -19,6 +19,8 @@
 <pre>pip install AutoCua</pre>
 </td></tr></table>
 
+https://github.com/user-attachments/assets/03a9a5ab-5049-4911-b725-63792d1b6253
+
 | | Windows | Linux | macOS |
 |:--|:--:|:--:|:--:|
 | **Computer use** — any desktop app, with real mouse and keyboard input | ✓ | ✓ | ✓ |
